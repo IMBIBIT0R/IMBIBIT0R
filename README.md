@@ -7,17 +7,13 @@
 </div>
 
 
-<p align="center">
- east ; xev
 </p>
 
 <div align="center">
 	<img src="https://64.media.tumblr.com/1380f2d60d54675e5b87d4924d02d541/c4e1dba0e9870332-19/s400x600/915641e0639230937c2ed9e9f1c6d04995b314df.pnj">
 </div>
 
-##
-<p align="center">
- kawaii meow
+
 </p>
 
 <div align="center">
